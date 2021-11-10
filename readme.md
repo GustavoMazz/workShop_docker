@@ -1,15 +1,6 @@
 # Docker
 
 <aside>
-💡 O que é o Docker?
-
-</aside>
-
-![Untitled](Docker%20f9049249acc44ecaa289e8dff0378c7e/Untitled.png)
-
-![Untitled](Docker%20f9049249acc44ecaa289e8dff0378c7e/Untitled%201.png)
-
-<aside>
 💡 Crie sua conta no Docker Hub e no PWD
 
 </aside>
@@ -18,47 +9,8 @@
 
 [Play with Docker](https://labs.play-with-docker.com/)
 
-<aside>
-💡 **Antes dos containers**
-
-</aside>
-
-![https://hub.packtpub.com/wp-content/uploads/2018/03/skill-up-blog_2.png](https://hub.packtpub.com/wp-content/uploads/2018/03/skill-up-blog_2.png)
-
-![Untitled](Docker%20f9049249acc44ecaa289e8dff0378c7e/Untitled%202.png)
-
-## Quais variáveis se importar em um ambiente?
-
-- Performance
-- Escalabilidade
-- Portabilidade
-- Custo
-- Segurança
-- Habilidades existentes
-
-![Untitled](Docker%20f9049249acc44ecaa289e8dff0378c7e/Untitled%203.png)
-
 ---
 
-# Não confunda VMs com containers!
-
-![https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2020/05/2020_05_13_12_19_07_PowerPoint_Slide_Show_Azure_AZ104_M01_Compute_ed1_.png](https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2020/05/2020_05_13_12_19_07_PowerPoint_Slide_Show_Azure_AZ104_M01_Compute_ed1_.png)
-
-## Desenvolvedores - Dev
-
-- Docker para Mac
-- Docker para Windows
-- Nativo para o Linux
-
-## Operação - Ops
-
-- Docker para AWS
-
-[Amazon CloudWatch - Monitoramento de aplicativos e infraestrutura](https://aws.amazon.com/pt/cloudwatch/)
-
-- Docker para Azure
-
----
 [percurso de aprendizado docker](https://dockerlabs.collabnix.com/workshop/docker/)
 
 <aside>
