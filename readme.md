@@ -59,6 +59,7 @@
 - Docker para Azure
 
 ---
+[percurso de aprendizado docker](https://dockerlabs.collabnix.com/workshop/docker/)
 
 <aside>
 💡 Imagens
