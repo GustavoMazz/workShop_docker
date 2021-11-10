@@ -206,10 +206,10 @@ networks:
 docker stack deploy --compose-file docker-compose.yml stackdemo
 ```
 
-[Docker Hub](https://hub.docker.com/r/linuxserver/sonarr)
+[Docker Hub - Sonarr](https://hub.docker.com/r/linuxserver/sonarr)
 
-[Docker Hub](https://hub.docker.com/r/linuxserver/lidarr)
+[Docker Hub - Lidarr](https://hub.docker.com/r/linuxserver/lidarr)
 
-[Docker Hub](https://hub.docker.com/r/linuxserver/radarr)
+[Docker Hub - Radarr](https://hub.docker.com/r/linuxserver/radarr)
 
-[Docker Hub](https://hub.docker.com/r/linuxserver/plex)
+[Docker Hub - Plex](https://hub.docker.com/r/linuxserver/plex)
